@@ -218,7 +218,7 @@
 
 [4.8.16 Testing for HTTP Splitting/Smuggling (OTG-INPVAL-016)](4_Web_Application_Security_Testing/4.8_Input_Validation_Testing/4.8.16_Testing_for_HTTP_Splitting_Smuggling_OTG-INPVAL-016.md)
 
-[4.8.17 Testing for HTTP Incoming Requests (OTG-INPVAL-017)](4_Web_Application_Security_Testing/4.8_Input_Validation_Testing/4.8.17_Testing_for_HTTP_Incoming_requests_OTG-INPVAL-017.md)
+[4.8.17 Testing for HTTP Incoming Requests (OTG-INPVAL-017)](4_Web_Application_Security_Testing/4.8_Input_Validation_Testing/4.8.17_Testing_for_HTTP_Incoming_Requests_OTG-INPVAL-017.md)
 
 [4.8.18 Testing for Host Header Injection (OTG-INPVAL-018)](4_Web_Application_Security_Testing/4.8_Input_Validation_Testing/4.8.18_Testing_for_Host_Header_Injection_OTG-INPVAL-018.md)
 
@@ -284,7 +284,7 @@
 
 [4.12.12 Test Local Storage (OTG-CLIENT-012)](4_Web_Application_Security_Testing/4.12_Client_Side_Testing/4.12.12_Test_Local_Storage_OTG-CLIENT-012.md)
 
-## [5. Reporting](5_Reporting/Reporting.md)
+## [5. Reporting](5_Reporting/5_Reporting.md)
 
 ## [Appendix A: Testing Tools Resource](Appx.A_Testing_Tools_Resource/Appx.A_Testing_Tools.md)
 
@@ -324,6 +324,6 @@
 - Input Encoding
 - Output Encoding
 
-## [Appendix E: Misc](Appx.E_Misc/AppxE_History.md)
+## [Appendix E: Misc](Appx.E_Misc/Appx.E_History.md)
 
 - History
